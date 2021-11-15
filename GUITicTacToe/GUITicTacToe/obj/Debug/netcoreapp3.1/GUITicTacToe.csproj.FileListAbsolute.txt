@@ -1,0 +1,17 @@
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\bin\Debug\netcoreapp3.1\GUITicTacToe.exe
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\bin\Debug\netcoreapp3.1\GUITicTacToe.deps.json
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\bin\Debug\netcoreapp3.1\GUITicTacToe.runtimeconfig.json
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\bin\Debug\netcoreapp3.1\GUITicTacToe.runtimeconfig.dev.json
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\bin\Debug\netcoreapp3.1\GUITicTacToe.dll
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\bin\Debug\netcoreapp3.1\GUITicTacToe.pdb
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\obj\Debug\netcoreapp3.1\GUITicTacToe.csproj.AssemblyReference.cache
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\obj\Debug\netcoreapp3.1\GUITicTacToe.Form1.resources
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\obj\Debug\netcoreapp3.1\GUITicTacToe.Properties.Resources.resources
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\obj\Debug\netcoreapp3.1\GUITicTacToe.csproj.GenerateResource.cache
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\obj\Debug\netcoreapp3.1\GUITicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\obj\Debug\netcoreapp3.1\GUITicTacToe.AssemblyInfoInputs.cache
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\obj\Debug\netcoreapp3.1\GUITicTacToe.AssemblyInfo.cs
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\obj\Debug\netcoreapp3.1\GUITicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\obj\Debug\netcoreapp3.1\GUITicTacToe.dll
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\obj\Debug\netcoreapp3.1\GUITicTacToe.pdb
+C:\Users\RonaldHotchkiss\Code\list\GUITicTacToe\GUITicTacToe\obj\Debug\netcoreapp3.1\GUITicTacToe.genruntimeconfig.cache
